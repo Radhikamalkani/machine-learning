@@ -1,1 +1,1 @@
-sentimental analgyis
+sentimental analysis
